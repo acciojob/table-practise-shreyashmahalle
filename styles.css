@@ -1,13 +1,7 @@
-/*  your css code here. If applicable */
-<style>
-    table {
-      border-collapse: collapse;
-      background-color: yellow;
-    }
-    table, th, td {
-      border: 1px solid black;
-    }
-    th {
-      font-weight: bold;
-    }
-  </style
+table {
+	background-color: yellow;
+}
+
+table, th, tr, td {
+	border: 1px solid black;
+}
